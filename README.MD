@@ -95,9 +95,9 @@ Pseudo-classes define the style of an element based on its state or position wit
 
 **Note on Differences:**
 
-* :first-child, :last-child, :nth-child(n) target elements based on their position among all children of the parent, regardless of type.
+* `:first-child`, `:last-child`, `:nth-child(n)` **target elements based on their position among all children of the parent, regardless of type**.
 
-* :first-of-type, :last-of-type, :nth-of-type(n) target elements based on their position among siblings of the same type. This is useful when multiple element types exist inside a parent.
+* `:first-of-type`, `:last-of-type`, `:nth-of-type(n)` **target elements based on their position among siblings of the same type**. This is useful when multiple element types exist inside a parent.
 
 ---
 
